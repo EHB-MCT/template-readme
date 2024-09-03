@@ -1,5 +1,5 @@
 # Lecturer info - delete this in your project
-- Create a fork of this repo
+- Create a fork of this repo. Naming: template-your-name-here
 - The result will be a template you can adapt to your assignment and use in Github classroom (don't forget to remote the lecturer info)
 - Keep your own templates [in sync](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) with this one
 
