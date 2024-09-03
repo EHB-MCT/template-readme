@@ -14,5 +14,5 @@ Live link: [website.be](website.be) (optional)
 
 ## Sources 🗃️
 - [Multi auth in Laravel](https://stackoverflow.com/questions/50514738/multi-auth-use-one-page-login-laravel)
-- [chatgpt.com](https://chatgpt.com) - this is invalid, because it links to a homepage instead of a specific page or issue
+- [chatgpt.com](https://chatgpt.com) ⚠️ this is an invalid example, because it links to a homepage instead of a specific page or issue
 - If your lecturer still sees this default example, you're in trouble
