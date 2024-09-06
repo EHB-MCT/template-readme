@@ -22,4 +22,4 @@ Live link: [website.be](website.be) (optional)
 - [Audio from ChatGPT](https://chatgpt.com/c/66dae37e-6da8-8001-99ab-245ad328416a) used in resources > music
 - [Chatgpt.com](https://chatgpt.com) ⚠️ this is an invalid example, because it links to a homepage instead of a specific page or issue
 - Generate a ChatGPT share link: options (three dots) > share.
-- If your lecturer still sees this default example, you're in trouble
+- If your lecturer still sees these default examples, you're in trouble
